@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title>Cake</title>
+    <meta charset = "UTF-8">
+  </head>
+  <body>
+    <h1>Cake recipe</h1>
+    <p>This is a cake recipe</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Flour</li>
+      <li>Cream</li>
+      <li>Chocolate</li>
+      <li>Vanilla</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>mix</li>
+      <li>mix</li>
+      <li>mix</li>
+      <li>mix</li>
+    </ol>
+    <img src = "https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt = "recipe">
+  </body>
+</html>
